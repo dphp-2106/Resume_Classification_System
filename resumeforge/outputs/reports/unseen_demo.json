@@ -1,0 +1,102 @@
+[
+  {
+    "id": 20932019,
+    "true": "DESIGNER",
+    "predicted": "DESIGNER",
+    "confidence": 0.1092,
+    "top3": [
+      [
+        "DESIGNER",
+        0.1092
+      ],
+      [
+        "ENGINEERING",
+        0.079
+      ],
+      [
+        "AUTOMOBILE",
+        0.0495
+      ]
+    ]
+  },
+  {
+    "id": 22450718,
+    "true": "INFORMATION-TECHNOLOGY",
+    "predicted": "INFORMATION-TECHNOLOGY",
+    "confidence": 0.0904,
+    "top3": [
+      [
+        "INFORMATION-TECHNOLOGY",
+        0.0904
+      ],
+      [
+        "CONSULTANT",
+        0.0606
+      ],
+      [
+        "ENGINEERING",
+        0.0561
+      ]
+    ]
+  },
+  {
+    "id": 25425322,
+    "true": "ENGINEERING",
+    "predicted": "ENGINEERING",
+    "confidence": 0.0753,
+    "top3": [
+      [
+        "ENGINEERING",
+        0.0753
+      ],
+      [
+        "AGRICULTURE",
+        0.0553
+      ],
+      [
+        "AVIATION",
+        0.0507
+      ]
+    ]
+  },
+  {
+    "id": 21134923,
+    "true": "AGRICULTURE",
+    "predicted": "AGRICULTURE",
+    "confidence": 0.0688,
+    "top3": [
+      [
+        "AGRICULTURE",
+        0.0688
+      ],
+      [
+        "PUBLIC-RELATIONS",
+        0.0549
+      ],
+      [
+        "CONSULTANT",
+        0.0519
+      ]
+    ]
+  },
+  {
+    "id": 21868149,
+    "true": "AGRICULTURE",
+    "predicted": "AGRICULTURE",
+    "confidence": 0.0715,
+    "top3": [
+      [
+        "AGRICULTURE",
+        0.0715
+      ],
+      [
+        "PUBLIC-RELATIONS",
+        0.0568
+      ],
+      [
+        "CONSULTANT",
+        0.0475
+      ]
+    ]
+  }
+]

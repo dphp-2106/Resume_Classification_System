@@ -1,0 +1,18 @@
+{
+  "model": "Word2Vec(mean-pool) + Dense MLP (128,64)",
+  "w2v_vocab": 26725,
+  "val": {
+    "accuracy": 0.5511,
+    "precision_macro": 0.5223,
+    "recall_macro": 0.5216,
+    "f1_macro": 0.5116,
+    "f1_weighted": 0.542
+  },
+  "test": {
+    "accuracy": 0.5335,
+    "precision_macro": 0.524,
+    "recall_macro": 0.5187,
+    "f1_macro": 0.5095,
+    "f1_weighted": 0.5337
+  }
+}

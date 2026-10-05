@@ -1,0 +1,138 @@
+{
+  "n_rows": 2484,
+  "n_columns": 7,
+  "columns": [
+    "ID",
+    "Resume_str",
+    "Resume_html",
+    "Category",
+    "text",
+    "n_char",
+    "n_word"
+  ],
+  "missing_values": {
+    "ID": 0,
+    "Resume_str": 0,
+    "Resume_html": 0,
+    "Category": 0,
+    "text": 0,
+    "n_char": 0,
+    "n_word": 0
+  },
+  "empty_resumes": {
+    "count": 1,
+    "pct": 0.04,
+    "ids": [
+      12632728
+    ]
+  },
+  "duplicates": {
+    "duplicate_ids": 0,
+    "exact_duplicate_rows": 0,
+    "duplicate_resume_text": 2,
+    "duplicate_text_within_same_class": 2,
+    "duplicate_ids_list": [
+      19147603,
+      28398216,
+      16850314,
+      37473139
+    ]
+  },
+  "noise_signals": {
+    "contains_html_tag": 0,
+    "contains_html_entity": 0,
+    "contains_url": 57,
+    "contains_email": 19,
+    "contains_phone": 42,
+    "non_ascii_heavy_rows": 2
+  },
+  "class_distribution": {
+    "INFORMATION-TECHNOLOGY": 120,
+    "BUSINESS-DEVELOPMENT": 120,
+    "ADVOCATE": 118,
+    "CHEF": 118,
+    "ENGINEERING": 118,
+    "ACCOUNTANT": 118,
+    "FINANCE": 118,
+    "FITNESS": 117,
+    "AVIATION": 117,
+    "SALES": 116,
+    "BANKING": 115,
+    "HEALTHCARE": 115,
+    "CONSULTANT": 115,
+    "CONSTRUCTION": 112,
+    "PUBLIC-RELATIONS": 111,
+    "HR": 110,
+    "DESIGNER": 107,
+    "ARTS": 103,
+    "TEACHER": 102,
+    "APPAREL": 97,
+    "DIGITAL-MEDIA": 96,
+    "AGRICULTURE": 63,
+    "AUTOMOBILE": 36,
+    "BPO": 22
+  },
+  "n_classes": 24,
+  "class_balance": {
+    "minority_class": "BPO",
+    "minority_count": 22,
+    "majority_class": "INFORMATION-TECHNOLOGY",
+    "majority_count": 120,
+    "imbalance_ratio": 5.45
+  },
+  "text_length": {
+    "char": {
+      "count": 2484.0,
+      "mean": 6295.3,
+      "std": 2769.3,
+      "min": 21.0,
+      "25%": 5160.0,
+      "50%": 5886.5,
+      "75%": 7227.2,
+      "max": 38842.0
+    },
+    "word": {
+      "count": 2484.0,
+      "mean": 811.3,
+      "std": 371.0,
+      "min": 0.0,
+      "25%": 651.0,
+      "50%": 757.0,
+      "75%": 933.0,
+      "max": 5190.0
+    }
+  },
+  "label_consistency": {
+    "unique_labels": [
+      "ACCOUNTANT",
+      "ADVOCATE",
+      "AGRICULTURE",
+      "APPAREL",
+      "ARTS",
+      "AUTOMOBILE",
+      "AVIATION",
+      "BANKING",
+      "BPO",
+      "BUSINESS-DEVELOPMENT",
+      "CHEF",
+      "CONSTRUCTION",
+      "CONSULTANT",
+      "DESIGNER",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "FINANCE",
+      "FITNESS",
+      "HEALTHCARE",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "PUBLIC-RELATIONS",
+      "SALES",
+      "TEACHER"
+    ],
+    "labels_match_expected_24": true
+  },
+  "leakage_check": {
+    "texts_appearing_in_multiple_classes": 0,
+    "note": "0 => no identical resume is labelled with two different classes"
+  }
+}

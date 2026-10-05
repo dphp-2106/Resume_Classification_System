@@ -1,0 +1,7 @@
+Model,Val Acc,Val Macro-F1,Test Acc,Test Macro-F1
+LightGBM (bi),0.8043,0.7471,0.7936,0.7665
+XGBoost (bi),0.8097,0.7519,0.7775,0.7316
+Logistic Regression (bi),0.6756,0.6205,0.6890,0.6440
+LinearSVC (bi),0.7051,0.6480,0.6890,0.6418
+Logistic Regression (uni),0.6461,0.5965,0.6408,0.5979
+Naive Bayes (uni),0.5442,0.4735,0.5121,0.4432

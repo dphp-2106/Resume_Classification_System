@@ -1,0 +1,3149 @@
+{
+  "n_pdfs": 449,
+  "accuracy_on_pdfs": 0.9265,
+  "rows": [
+    {
+      "file": "10089434.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.13,
+      "correct": true
+    },
+    {
+      "file": "10247517.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1844,
+      "correct": true
+    },
+    {
+      "file": "10265057.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1295,
+      "correct": true
+    },
+    {
+      "file": "10553553.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1931,
+      "correct": true
+    },
+    {
+      "file": "10641230.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1651,
+      "correct": true
+    },
+    {
+      "file": "10839851.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1715,
+      "correct": true
+    },
+    {
+      "file": "10840430.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1169,
+      "correct": true
+    },
+    {
+      "file": "11580408.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.189,
+      "correct": true
+    },
+    {
+      "file": "11584809.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.207,
+      "correct": true
+    },
+    {
+      "file": "11957080.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0998,
+      "correct": true
+    },
+    {
+      "file": "12045067.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1628,
+      "correct": true
+    },
+    {
+      "file": "12334140.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1405,
+      "correct": true
+    },
+    {
+      "file": "12635195.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1783,
+      "correct": true
+    },
+    {
+      "file": "12763627.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1554,
+      "correct": true
+    },
+    {
+      "file": "13385306.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1878,
+      "correct": true
+    },
+    {
+      "file": "13405733.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1649,
+      "correct": true
+    },
+    {
+      "file": "13477922.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1723,
+      "correct": true
+    },
+    {
+      "file": "13836471.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1664,
+      "correct": true
+    },
+    {
+      "file": "14789139.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1584,
+      "correct": true
+    },
+    {
+      "file": "15118506.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1675,
+      "correct": true
+    },
+    {
+      "file": "15297298.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1663,
+      "correct": true
+    },
+    {
+      "file": "15651486.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1786,
+      "correct": true
+    },
+    {
+      "file": "15791766.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1089,
+      "correct": true
+    },
+    {
+      "file": "15802627.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1801,
+      "correct": true
+    },
+    {
+      "file": "16186411.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.146,
+      "correct": true
+    },
+    {
+      "file": "16533554.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1893,
+      "correct": true
+    },
+    {
+      "file": "16899268.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0703,
+      "correct": true
+    },
+    {
+      "file": "17111768.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1776,
+      "correct": true
+    },
+    {
+      "file": "17641670.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1632,
+      "correct": true
+    },
+    {
+      "file": "17681064.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0729,
+      "correct": true
+    },
+    {
+      "file": "17688766.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.157,
+      "correct": true
+    },
+    {
+      "file": "17987433.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1302,
+      "correct": true
+    },
+    {
+      "file": "18067556.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1593,
+      "correct": true
+    },
+    {
+      "file": "18159866.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1565,
+      "correct": true
+    },
+    {
+      "file": "18176523.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1933,
+      "correct": true
+    },
+    {
+      "file": "18187364.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0963,
+      "correct": true
+    },
+    {
+      "file": "18301617.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1983,
+      "correct": true
+    },
+    {
+      "file": "18752129.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "TEACHER",
+      "confidence": 0.1014,
+      "correct": false
+    },
+    {
+      "file": "19201175.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "CHEF",
+      "confidence": 0.0671,
+      "correct": false
+    },
+    {
+      "file": "19796840.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1517,
+      "correct": true
+    },
+    {
+      "file": "19850482.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1357,
+      "correct": true
+    },
+    {
+      "file": "20001721.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0649,
+      "correct": true
+    },
+    {
+      "file": "20024870.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1437,
+      "correct": true
+    },
+    {
+      "file": "20237244.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1775,
+      "correct": true
+    },
+    {
+      "file": "20408458.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1642,
+      "correct": true
+    },
+    {
+      "file": "20674668.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1488,
+      "correct": true
+    },
+    {
+      "file": "20824105.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1692,
+      "correct": true
+    },
+    {
+      "file": "20879311.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.2123,
+      "correct": true
+    },
+    {
+      "file": "21283365.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1803,
+      "correct": true
+    },
+    {
+      "file": "21780877.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0811,
+      "correct": true
+    },
+    {
+      "file": "22450718.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0904,
+      "correct": true
+    },
+    {
+      "file": "22776912.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1375,
+      "correct": true
+    },
+    {
+      "file": "23527321.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.145,
+      "correct": true
+    },
+    {
+      "file": "23666211.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1324,
+      "correct": true
+    },
+    {
+      "file": "23864648.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.2019,
+      "correct": true
+    },
+    {
+      "file": "24020470.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0806,
+      "correct": true
+    },
+    {
+      "file": "24038620.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1553,
+      "correct": true
+    },
+    {
+      "file": "24083609.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1032,
+      "correct": true
+    },
+    {
+      "file": "24230851.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.128,
+      "correct": true
+    },
+    {
+      "file": "24889109.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1913,
+      "correct": true
+    },
+    {
+      "file": "24913648.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.187,
+      "correct": true
+    },
+    {
+      "file": "25207620.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.166,
+      "correct": true
+    },
+    {
+      "file": "25857360.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1269,
+      "correct": true
+    },
+    {
+      "file": "25905275.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1419,
+      "correct": true
+    },
+    {
+      "file": "25959103.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1225,
+      "correct": true
+    },
+    {
+      "file": "25990239.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1592,
+      "correct": true
+    },
+    {
+      "file": "26480367.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1234,
+      "correct": true
+    },
+    {
+      "file": "26746496.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1461,
+      "correct": true
+    },
+    {
+      "file": "26768723.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0901,
+      "correct": true
+    },
+    {
+      "file": "26801767.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1763,
+      "correct": true
+    },
+    {
+      "file": "27058381.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1721,
+      "correct": true
+    },
+    {
+      "file": "27295996.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.2021,
+      "correct": true
+    },
+    {
+      "file": "27372171.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1639,
+      "correct": true
+    },
+    {
+      "file": "27485716.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1084,
+      "correct": true
+    },
+    {
+      "file": "27536013.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0941,
+      "correct": true
+    },
+    {
+      "file": "27770859.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1146,
+      "correct": true
+    },
+    {
+      "file": "28035460.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1506,
+      "correct": true
+    },
+    {
+      "file": "28126340.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1423,
+      "correct": true
+    },
+    {
+      "file": "28672970.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1292,
+      "correct": true
+    },
+    {
+      "file": "28697203.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1393,
+      "correct": true
+    },
+    {
+      "file": "28897981.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0827,
+      "correct": true
+    },
+    {
+      "file": "29051656.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1596,
+      "correct": true
+    },
+    {
+      "file": "29075857.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1359,
+      "correct": true
+    },
+    {
+      "file": "29975124.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1743,
+      "correct": true
+    },
+    {
+      "file": "30223363.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1374,
+      "correct": true
+    },
+    {
+      "file": "31111279.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1541,
+      "correct": true
+    },
+    {
+      "file": "31243710.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1629,
+      "correct": true
+    },
+    {
+      "file": "32959732.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1746,
+      "correct": true
+    },
+    {
+      "file": "33241454.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1639,
+      "correct": true
+    },
+    {
+      "file": "33381211.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "ENGINEERING",
+      "confidence": 0.0608,
+      "correct": false
+    },
+    {
+      "file": "35325329.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1615,
+      "correct": true
+    },
+    {
+      "file": "36434348.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1889,
+      "correct": true
+    },
+    {
+      "file": "36856210.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1051,
+      "correct": true
+    },
+    {
+      "file": "37242217.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1066,
+      "correct": true
+    },
+    {
+      "file": "37764298.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0661,
+      "correct": true
+    },
+    {
+      "file": "38753827.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1987,
+      "correct": true
+    },
+    {
+      "file": "39413067.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.208,
+      "correct": true
+    },
+    {
+      "file": "39718499.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1246,
+      "correct": true
+    },
+    {
+      "file": "40018190.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1701,
+      "correct": true
+    },
+    {
+      "file": "41344156.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1957,
+      "correct": true
+    },
+    {
+      "file": "46260230.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1516,
+      "correct": true
+    },
+    {
+      "file": "48037995.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.126,
+      "correct": true
+    },
+    {
+      "file": "51363762.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1015,
+      "correct": true
+    },
+    {
+      "file": "51639418.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1702,
+      "correct": true
+    },
+    {
+      "file": "52246737.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1697,
+      "correct": true
+    },
+    {
+      "file": "52618188.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.07,
+      "correct": true
+    },
+    {
+      "file": "57002858.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1974,
+      "correct": true
+    },
+    {
+      "file": "64017585.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0718,
+      "correct": true
+    },
+    {
+      "file": "66832845.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.17,
+      "correct": true
+    },
+    {
+      "file": "68460556.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1495,
+      "correct": true
+    },
+    {
+      "file": "70089206.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1687,
+      "correct": true
+    },
+    {
+      "file": "79541391.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1466,
+      "correct": true
+    },
+    {
+      "file": "81761658.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.2033,
+      "correct": true
+    },
+    {
+      "file": "83816738.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1462,
+      "correct": true
+    },
+    {
+      "file": "89413122.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1593,
+      "correct": true
+    },
+    {
+      "file": "90867631.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.2044,
+      "correct": true
+    },
+    {
+      "file": "91121135.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "HR",
+      "confidence": 0.0708,
+      "correct": false
+    },
+    {
+      "file": "91635250.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0955,
+      "correct": true
+    },
+    {
+      "file": "91697974.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1375,
+      "correct": true
+    },
+    {
+      "file": "92069209.pdf",
+      "folder_label": "INFORMATION-TECHNOLOGY",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.1794,
+      "correct": true
+    },
+    {
+      "file": "10070224.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.254,
+      "correct": true
+    },
+    {
+      "file": "10554045.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1262,
+      "correct": true
+    },
+    {
+      "file": "10873344.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1806,
+      "correct": true
+    },
+    {
+      "file": "10926726.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1579,
+      "correct": true
+    },
+    {
+      "file": "11160414.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1667,
+      "correct": true
+    },
+    {
+      "file": "11624880.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1825,
+      "correct": true
+    },
+    {
+      "file": "11635137.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0766,
+      "correct": true
+    },
+    {
+      "file": "11842274.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "CHEF",
+      "confidence": 0.0725,
+      "correct": false
+    },
+    {
+      "file": "11850315.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1735,
+      "correct": true
+    },
+    {
+      "file": "11902276.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1282,
+      "correct": true
+    },
+    {
+      "file": "12191094.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1913,
+      "correct": true
+    },
+    {
+      "file": "12237267.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1439,
+      "correct": true
+    },
+    {
+      "file": "12545844.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2147,
+      "correct": true
+    },
+    {
+      "file": "12567516.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2187,
+      "correct": true
+    },
+    {
+      "file": "12920612.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1716,
+      "correct": true
+    },
+    {
+      "file": "13129275.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2279,
+      "correct": true
+    },
+    {
+      "file": "13727873.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "HR",
+      "confidence": 0.0717,
+      "correct": false
+    },
+    {
+      "file": "13915715.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1455,
+      "correct": true
+    },
+    {
+      "file": "14009087.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2172,
+      "correct": true
+    },
+    {
+      "file": "14128006.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1979,
+      "correct": true
+    },
+    {
+      "file": "14278888.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1377,
+      "correct": true
+    },
+    {
+      "file": "14364597.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1524,
+      "correct": true
+    },
+    {
+      "file": "14536764.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1874,
+      "correct": true
+    },
+    {
+      "file": "14611516.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1047,
+      "correct": true
+    },
+    {
+      "file": "14667659.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.171,
+      "correct": true
+    },
+    {
+      "file": "14910300.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1224,
+      "correct": true
+    },
+    {
+      "file": "14966165.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1635,
+      "correct": true
+    },
+    {
+      "file": "15917885.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1669,
+      "correct": true
+    },
+    {
+      "file": "16103783.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1369,
+      "correct": true
+    },
+    {
+      "file": "16226743.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2318,
+      "correct": true
+    },
+    {
+      "file": "16620172.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "DIGITAL-MEDIA",
+      "confidence": 0.0685,
+      "correct": false
+    },
+    {
+      "file": "18133495.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "confidence": 0.0839,
+      "correct": false
+    },
+    {
+      "file": "18436190.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2014,
+      "correct": true
+    },
+    {
+      "file": "19072267.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1048,
+      "correct": true
+    },
+    {
+      "file": "19497420.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1606,
+      "correct": true
+    },
+    {
+      "file": "19503224.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1716,
+      "correct": true
+    },
+    {
+      "file": "19558834.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1855,
+      "correct": true
+    },
+    {
+      "file": "19929506.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2155,
+      "correct": true
+    },
+    {
+      "file": "20470943.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "APPAREL",
+      "confidence": 0.0726,
+      "correct": false
+    },
+    {
+      "file": "20966771.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2026,
+      "correct": true
+    },
+    {
+      "file": "21297828.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2058,
+      "correct": true
+    },
+    {
+      "file": "21321598.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1508,
+      "correct": true
+    },
+    {
+      "file": "21386255.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1759,
+      "correct": true
+    },
+    {
+      "file": "21478007.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1741,
+      "correct": true
+    },
+    {
+      "file": "21549195.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2296,
+      "correct": true
+    },
+    {
+      "file": "21663616.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1516,
+      "correct": true
+    },
+    {
+      "file": "21669215.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.196,
+      "correct": true
+    },
+    {
+      "file": "22455205.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "ADVOCATE",
+      "confidence": 0.0556,
+      "correct": false
+    },
+    {
+      "file": "22560013.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.161,
+      "correct": true
+    },
+    {
+      "file": "22754014.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1678,
+      "correct": true
+    },
+    {
+      "file": "22861181.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1434,
+      "correct": true
+    },
+    {
+      "file": "23015611.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2091,
+      "correct": true
+    },
+    {
+      "file": "23048999.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1638,
+      "correct": true
+    },
+    {
+      "file": "23143731.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2036,
+      "correct": true
+    },
+    {
+      "file": "23602130.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1005,
+      "correct": true
+    },
+    {
+      "file": "23631724.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.198,
+      "correct": true
+    },
+    {
+      "file": "23673025.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1157,
+      "correct": true
+    },
+    {
+      "file": "23771896.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2211,
+      "correct": true
+    },
+    {
+      "file": "24491862.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1595,
+      "correct": true
+    },
+    {
+      "file": "24559558.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1763,
+      "correct": true
+    },
+    {
+      "file": "24590489.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "ACCOUNTANT",
+      "confidence": 0.0514,
+      "correct": false
+    },
+    {
+      "file": "24677466.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.201,
+      "correct": true
+    },
+    {
+      "file": "24710433.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1761,
+      "correct": true
+    },
+    {
+      "file": "24977396.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "HR",
+      "confidence": 0.0575,
+      "correct": false
+    },
+    {
+      "file": "25001005.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.193,
+      "correct": true
+    },
+    {
+      "file": "25070914.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.149,
+      "correct": true
+    },
+    {
+      "file": "25413261.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1731,
+      "correct": true
+    },
+    {
+      "file": "26127853.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1536,
+      "correct": true
+    },
+    {
+      "file": "26130673.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0754,
+      "correct": true
+    },
+    {
+      "file": "26173524.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1596,
+      "correct": true
+    },
+    {
+      "file": "26330995.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0707,
+      "correct": true
+    },
+    {
+      "file": "27000192.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.224,
+      "correct": true
+    },
+    {
+      "file": "27257013.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2439,
+      "correct": true
+    },
+    {
+      "file": "28290448.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2446,
+      "correct": true
+    },
+    {
+      "file": "28531493.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.154,
+      "correct": true
+    },
+    {
+      "file": "28831442.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "ARTS",
+      "confidence": 0.0544,
+      "correct": false
+    },
+    {
+      "file": "28862054.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1698,
+      "correct": true
+    },
+    {
+      "file": "28975482.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0757,
+      "correct": true
+    },
+    {
+      "file": "29329075.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0632,
+      "correct": true
+    },
+    {
+      "file": "29525715.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1473,
+      "correct": true
+    },
+    {
+      "file": "30642458.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1785,
+      "correct": true
+    },
+    {
+      "file": "31211074.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "SALES",
+      "confidence": 0.0703,
+      "correct": false
+    },
+    {
+      "file": "31220062.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2112,
+      "correct": true
+    },
+    {
+      "file": "31292364.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1117,
+      "correct": true
+    },
+    {
+      "file": "31392754.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1495,
+      "correct": true
+    },
+    {
+      "file": "32441790.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1516,
+      "correct": true
+    },
+    {
+      "file": "33072201.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1073,
+      "correct": true
+    },
+    {
+      "file": "34712719.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1474,
+      "correct": true
+    },
+    {
+      "file": "36107065.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1534,
+      "correct": true
+    },
+    {
+      "file": "36671891.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1924,
+      "correct": true
+    },
+    {
+      "file": "37087371.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.191,
+      "correct": true
+    },
+    {
+      "file": "37375999.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1969,
+      "correct": true
+    },
+    {
+      "file": "37913536.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1787,
+      "correct": true
+    },
+    {
+      "file": "38056161.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2313,
+      "correct": true
+    },
+    {
+      "file": "41590605.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1067,
+      "correct": true
+    },
+    {
+      "file": "42332765.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1048,
+      "correct": true
+    },
+    {
+      "file": "45462344.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2087,
+      "correct": true
+    },
+    {
+      "file": "45900271.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1059,
+      "correct": true
+    },
+    {
+      "file": "49119887.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0869,
+      "correct": true
+    },
+    {
+      "file": "51415089.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2116,
+      "correct": true
+    },
+    {
+      "file": "53701275.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.167,
+      "correct": true
+    },
+    {
+      "file": "59346975.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1757,
+      "correct": true
+    },
+    {
+      "file": "61319162.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1912,
+      "correct": true
+    },
+    {
+      "file": "65237556.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1511,
+      "correct": true
+    },
+    {
+      "file": "75329822.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.226,
+      "correct": true
+    },
+    {
+      "file": "85766635.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1826,
+      "correct": true
+    },
+    {
+      "file": "85973397.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.199,
+      "correct": true
+    },
+    {
+      "file": "88651471.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1297,
+      "correct": true
+    },
+    {
+      "file": "91197243.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2007,
+      "correct": true
+    },
+    {
+      "file": "93828034.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.1528,
+      "correct": true
+    },
+    {
+      "file": "98086373.pdf",
+      "folder_label": "PUBLIC-RELATIONS",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.2015,
+      "correct": true
+    },
+    {
+      "file": "10138632.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1679,
+      "correct": true
+    },
+    {
+      "file": "10464113.pdf",
+      "folder_label": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0751,
+      "correct": false
+    },
+    {
+      "file": "10603337.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1541,
+      "correct": true
+    },
+    {
+      "file": "10724818.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1122,
+      "correct": true
+    },
+    {
+      "file": "10898339.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1383,
+      "correct": true
+    },
+    {
+      "file": "12082377.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0923,
+      "correct": true
+    },
+    {
+      "file": "12351749.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1419,
+      "correct": true
+    },
+    {
+      "file": "12696104.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1791,
+      "correct": true
+    },
+    {
+      "file": "12820557.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0775,
+      "correct": true
+    },
+    {
+      "file": "13178604.pdf",
+      "folder_label": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0949,
+      "correct": false
+    },
+    {
+      "file": "13348915.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1774,
+      "correct": true
+    },
+    {
+      "file": "13637605.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1466,
+      "correct": true
+    },
+    {
+      "file": "13812481.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.102,
+      "correct": true
+    },
+    {
+      "file": "14267489.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1391,
+      "correct": true
+    },
+    {
+      "file": "14358578.pdf",
+      "folder_label": "SALES",
+      "predicted": "APPAREL",
+      "confidence": 0.065,
+      "correct": false
+    },
+    {
+      "file": "14381464.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1579,
+      "correct": true
+    },
+    {
+      "file": "15273850.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1517,
+      "correct": true
+    },
+    {
+      "file": "15581242.pdf",
+      "folder_label": "SALES",
+      "predicted": "ARTS",
+      "confidence": 0.0525,
+      "correct": false
+    },
+    {
+      "file": "15620421.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1352,
+      "correct": true
+    },
+    {
+      "file": "15765660.pdf",
+      "folder_label": "SALES",
+      "predicted": "DIGITAL-MEDIA",
+      "confidence": 0.0892,
+      "correct": false
+    },
+    {
+      "file": "15918496.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1459,
+      "correct": true
+    },
+    {
+      "file": "15973307.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0574,
+      "correct": true
+    },
+    {
+      "file": "16121015.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1514,
+      "correct": true
+    },
+    {
+      "file": "16223371.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0848,
+      "correct": true
+    },
+    {
+      "file": "16280971.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.142,
+      "correct": true
+    },
+    {
+      "file": "16511249.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1321,
+      "correct": true
+    },
+    {
+      "file": "17378327.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1452,
+      "correct": true
+    },
+    {
+      "file": "17410700.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1123,
+      "correct": true
+    },
+    {
+      "file": "17509935.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1581,
+      "correct": true
+    },
+    {
+      "file": "17704246.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1375,
+      "correct": true
+    },
+    {
+      "file": "17781039.pdf",
+      "folder_label": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0601,
+      "correct": false
+    },
+    {
+      "file": "18062906.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1395,
+      "correct": true
+    },
+    {
+      "file": "18171955.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1343,
+      "correct": true
+    },
+    {
+      "file": "18328743.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0655,
+      "correct": true
+    },
+    {
+      "file": "18368613.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1445,
+      "correct": true
+    },
+    {
+      "file": "18885231.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.146,
+      "correct": true
+    },
+    {
+      "file": "19147494.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.107,
+      "correct": true
+    },
+    {
+      "file": "19147947.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1278,
+      "correct": true
+    },
+    {
+      "file": "19156751.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.067,
+      "correct": true
+    },
+    {
+      "file": "19473948.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1554,
+      "correct": true
+    },
+    {
+      "file": "19582792.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1286,
+      "correct": true
+    },
+    {
+      "file": "20141807.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1483,
+      "correct": true
+    },
+    {
+      "file": "20423658.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1424,
+      "correct": true
+    },
+    {
+      "file": "20552814.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1543,
+      "correct": true
+    },
+    {
+      "file": "20819838.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1545,
+      "correct": true
+    },
+    {
+      "file": "21595057.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1476,
+      "correct": true
+    },
+    {
+      "file": "22047665.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1525,
+      "correct": true
+    },
+    {
+      "file": "22319662.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.139,
+      "correct": true
+    },
+    {
+      "file": "23032182.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1582,
+      "correct": true
+    },
+    {
+      "file": "23296286.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1709,
+      "correct": true
+    },
+    {
+      "file": "23760084.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1406,
+      "correct": true
+    },
+    {
+      "file": "23782450.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1507,
+      "correct": true
+    },
+    {
+      "file": "23929500.pdf",
+      "folder_label": "SALES",
+      "predicted": "HEALTHCARE",
+      "confidence": 0.0778,
+      "correct": false
+    },
+    {
+      "file": "24610685.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1239,
+      "correct": true
+    },
+    {
+      "file": "25315791.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1625,
+      "correct": true
+    },
+    {
+      "file": "25810233.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0596,
+      "correct": true
+    },
+    {
+      "file": "25839123.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1506,
+      "correct": true
+    },
+    {
+      "file": "26425074.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1356,
+      "correct": true
+    },
+    {
+      "file": "26530696.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1296,
+      "correct": true
+    },
+    {
+      "file": "26932091.pdf",
+      "folder_label": "SALES",
+      "predicted": "APPAREL",
+      "confidence": 0.0634,
+      "correct": false
+    },
+    {
+      "file": "26994282.pdf",
+      "folder_label": "SALES",
+      "predicted": "CONSTRUCTION",
+      "confidence": 0.1858,
+      "correct": false
+    },
+    {
+      "file": "27233183.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1062,
+      "correct": true
+    },
+    {
+      "file": "27607632.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.148,
+      "correct": true
+    },
+    {
+      "file": "27624540.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1318,
+      "correct": true
+    },
+    {
+      "file": "28139742.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1374,
+      "correct": true
+    },
+    {
+      "file": "28198029.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1372,
+      "correct": true
+    },
+    {
+      "file": "28377361.pdf",
+      "folder_label": "SALES",
+      "predicted": "CHEF",
+      "confidence": 0.0684,
+      "correct": false
+    },
+    {
+      "file": "28867567.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0756,
+      "correct": true
+    },
+    {
+      "file": "29134721.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.12,
+      "correct": true
+    },
+    {
+      "file": "29184740.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.138,
+      "correct": true
+    },
+    {
+      "file": "29211919.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1527,
+      "correct": true
+    },
+    {
+      "file": "29332616.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1667,
+      "correct": true
+    },
+    {
+      "file": "29399491.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0925,
+      "correct": true
+    },
+    {
+      "file": "29805310.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1633,
+      "correct": true
+    },
+    {
+      "file": "29815762.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1544,
+      "correct": true
+    },
+    {
+      "file": "29928796.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1481,
+      "correct": true
+    },
+    {
+      "file": "30083943.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1377,
+      "correct": true
+    },
+    {
+      "file": "30529547.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0637,
+      "correct": true
+    },
+    {
+      "file": "30608780.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1501,
+      "correct": true
+    },
+    {
+      "file": "31199035.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1667,
+      "correct": true
+    },
+    {
+      "file": "31454430.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1548,
+      "correct": true
+    },
+    {
+      "file": "32140087.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.123,
+      "correct": true
+    },
+    {
+      "file": "33236701.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1746,
+      "correct": true
+    },
+    {
+      "file": "33578873.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1744,
+      "correct": true
+    },
+    {
+      "file": "34131484.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1695,
+      "correct": true
+    },
+    {
+      "file": "34303500.pdf",
+      "folder_label": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0648,
+      "correct": false
+    },
+    {
+      "file": "36074301.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1369,
+      "correct": true
+    },
+    {
+      "file": "36621169.pdf",
+      "folder_label": "SALES",
+      "predicted": "APPAREL",
+      "confidence": 0.1495,
+      "correct": false
+    },
+    {
+      "file": "36904300.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1404,
+      "correct": true
+    },
+    {
+      "file": "36970996.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1778,
+      "correct": true
+    },
+    {
+      "file": "37360517.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1289,
+      "correct": true
+    },
+    {
+      "file": "37540732.pdf",
+      "folder_label": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0876,
+      "correct": false
+    },
+    {
+      "file": "37735467.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1528,
+      "correct": true
+    },
+    {
+      "file": "37792474.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1323,
+      "correct": true
+    },
+    {
+      "file": "38087844.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1586,
+      "correct": true
+    },
+    {
+      "file": "39581020.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1115,
+      "correct": true
+    },
+    {
+      "file": "40987524.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1369,
+      "correct": true
+    },
+    {
+      "file": "42304307.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1475,
+      "correct": true
+    },
+    {
+      "file": "51349448.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1405,
+      "correct": true
+    },
+    {
+      "file": "54101961.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.146,
+      "correct": true
+    },
+    {
+      "file": "55097118.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1399,
+      "correct": true
+    },
+    {
+      "file": "55104715.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.142,
+      "correct": true
+    },
+    {
+      "file": "55477468.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0667,
+      "correct": true
+    },
+    {
+      "file": "58428843.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0786,
+      "correct": true
+    },
+    {
+      "file": "59422148.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1289,
+      "correct": true
+    },
+    {
+      "file": "65456466.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.0831,
+      "correct": true
+    },
+    {
+      "file": "69155584.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1753,
+      "correct": true
+    },
+    {
+      "file": "70528646.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1651,
+      "correct": true
+    },
+    {
+      "file": "71772815.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1556,
+      "correct": true
+    },
+    {
+      "file": "79376680.pdf",
+      "folder_label": "SALES",
+      "predicted": "ARTS",
+      "confidence": 0.0537,
+      "correct": false
+    },
+    {
+      "file": "85918100.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1331,
+      "correct": true
+    },
+    {
+      "file": "87118391.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1409,
+      "correct": true
+    },
+    {
+      "file": "90682785.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1721,
+      "correct": true
+    },
+    {
+      "file": "92200491.pdf",
+      "folder_label": "SALES",
+      "predicted": "CHEF",
+      "confidence": 0.0763,
+      "correct": false
+    },
+    {
+      "file": "98108571.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1549,
+      "correct": true
+    },
+    {
+      "file": "98509238.pdf",
+      "folder_label": "SALES",
+      "predicted": "SALES",
+      "confidence": 0.1452,
+      "correct": true
+    },
+    {
+      "file": "10504237.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1712,
+      "correct": true
+    },
+    {
+      "file": "10527994.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1788,
+      "correct": true
+    },
+    {
+      "file": "10909720.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2249,
+      "correct": true
+    },
+    {
+      "file": "11336022.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0891,
+      "correct": true
+    },
+    {
+      "file": "11616482.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0812,
+      "correct": true
+    },
+    {
+      "file": "11943065.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2179,
+      "correct": true
+    },
+    {
+      "file": "12467531.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1847,
+      "correct": true
+    },
+    {
+      "file": "12587973.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "confidence": 0.0632,
+      "correct": false
+    },
+    {
+      "file": "13087952.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1823,
+      "correct": true
+    },
+    {
+      "file": "13296856.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1525,
+      "correct": true
+    },
+    {
+      "file": "13330982.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1865,
+      "correct": true
+    },
+    {
+      "file": "13583538.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1471,
+      "correct": true
+    },
+    {
+      "file": "13855004.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1893,
+      "correct": true
+    },
+    {
+      "file": "14958913.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1475,
+      "correct": true
+    },
+    {
+      "file": "15850434.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.14,
+      "correct": true
+    },
+    {
+      "file": "15899269.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0625,
+      "correct": true
+    },
+    {
+      "file": "16210888.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1864,
+      "correct": true
+    },
+    {
+      "file": "16270906.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1284,
+      "correct": true
+    },
+    {
+      "file": "16820422.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0806,
+      "correct": true
+    },
+    {
+      "file": "17311685.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2352,
+      "correct": true
+    },
+    {
+      "file": "17481570.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1959,
+      "correct": true
+    },
+    {
+      "file": "18001081.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2123,
+      "correct": true
+    },
+    {
+      "file": "19302310.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1829,
+      "correct": true
+    },
+    {
+      "file": "19464810.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1516,
+      "correct": true
+    },
+    {
+      "file": "19556300.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0994,
+      "correct": true
+    },
+    {
+      "file": "19786924.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2024,
+      "correct": true
+    },
+    {
+      "file": "19918523.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1289,
+      "correct": true
+    },
+    {
+      "file": "20230207.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0775,
+      "correct": true
+    },
+    {
+      "file": "20399718.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.204,
+      "correct": true
+    },
+    {
+      "file": "20478831.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1863,
+      "correct": true
+    },
+    {
+      "file": "20626794.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1182,
+      "correct": true
+    },
+    {
+      "file": "21531811.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1821,
+      "correct": true
+    },
+    {
+      "file": "21550454.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1917,
+      "correct": true
+    },
+    {
+      "file": "21611212.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2102,
+      "correct": true
+    },
+    {
+      "file": "21773106.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1915,
+      "correct": true
+    },
+    {
+      "file": "22056333.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2186,
+      "correct": true
+    },
+    {
+      "file": "22408666.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1855,
+      "correct": true
+    },
+    {
+      "file": "22510753.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1357,
+      "correct": true
+    },
+    {
+      "file": "22551979.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0976,
+      "correct": true
+    },
+    {
+      "file": "22632070.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2201,
+      "correct": true
+    },
+    {
+      "file": "22807104.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1412,
+      "correct": true
+    },
+    {
+      "file": "22884757.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1259,
+      "correct": true
+    },
+    {
+      "file": "22968380.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1103,
+      "correct": true
+    },
+    {
+      "file": "23398843.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1756,
+      "correct": true
+    },
+    {
+      "file": "23628651.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1646,
+      "correct": true
+    },
+    {
+      "file": "23939133.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1711,
+      "correct": true
+    },
+    {
+      "file": "24240349.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "PUBLIC-RELATIONS",
+      "confidence": 0.0555,
+      "correct": false
+    },
+    {
+      "file": "24791126.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1433,
+      "correct": true
+    },
+    {
+      "file": "25588694.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1787,
+      "correct": true
+    },
+    {
+      "file": "25729119.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1891,
+      "correct": true
+    },
+    {
+      "file": "27126818.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1215,
+      "correct": true
+    },
+    {
+      "file": "27524018.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.113,
+      "correct": true
+    },
+    {
+      "file": "27531694.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1876,
+      "correct": true
+    },
+    {
+      "file": "27798860.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1537,
+      "correct": true
+    },
+    {
+      "file": "28013287.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.149,
+      "correct": true
+    },
+    {
+      "file": "28063132.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1462,
+      "correct": true
+    },
+    {
+      "file": "28086303.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2581,
+      "correct": true
+    },
+    {
+      "file": "28642819.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1886,
+      "correct": true
+    },
+    {
+      "file": "28772892.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1819,
+      "correct": true
+    },
+    {
+      "file": "28933005.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2286,
+      "correct": true
+    },
+    {
+      "file": "29267293.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1871,
+      "correct": true
+    },
+    {
+      "file": "29486525.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2078,
+      "correct": true
+    },
+    {
+      "file": "29639533.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1439,
+      "correct": true
+    },
+    {
+      "file": "29797594.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1433,
+      "correct": true
+    },
+    {
+      "file": "29930479.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2105,
+      "correct": true
+    },
+    {
+      "file": "31552617.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1604,
+      "correct": true
+    },
+    {
+      "file": "32067700.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1053,
+      "correct": true
+    },
+    {
+      "file": "33704389.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2057,
+      "correct": true
+    },
+    {
+      "file": "34033933.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "HEALTHCARE",
+      "confidence": 0.0675,
+      "correct": false
+    },
+    {
+      "file": "34465087.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1799,
+      "correct": true
+    },
+    {
+      "file": "34689720.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.157,
+      "correct": true
+    },
+    {
+      "file": "34745915.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1681,
+      "correct": true
+    },
+    {
+      "file": "35421497.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2162,
+      "correct": true
+    },
+    {
+      "file": "36206485.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.223,
+      "correct": true
+    },
+    {
+      "file": "36569713.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2113,
+      "correct": true
+    },
+    {
+      "file": "37402097.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1543,
+      "correct": true
+    },
+    {
+      "file": "37660306.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1536,
+      "correct": true
+    },
+    {
+      "file": "38750659.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1767,
+      "correct": true
+    },
+    {
+      "file": "45286020.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0967,
+      "correct": true
+    },
+    {
+      "file": "45987048.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1976,
+      "correct": true
+    },
+    {
+      "file": "48547319.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2316,
+      "correct": true
+    },
+    {
+      "file": "49285644.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1671,
+      "correct": true
+    },
+    {
+      "file": "51209395.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0866,
+      "correct": true
+    },
+    {
+      "file": "53129155.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1672,
+      "correct": true
+    },
+    {
+      "file": "58105060.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.221,
+      "correct": true
+    },
+    {
+      "file": "58665241.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1174,
+      "correct": true
+    },
+    {
+      "file": "58708773.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1728,
+      "correct": true
+    },
+    {
+      "file": "62184086.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2325,
+      "correct": true
+    },
+    {
+      "file": "63391085.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1752,
+      "correct": true
+    },
+    {
+      "file": "66683238.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.175,
+      "correct": true
+    },
+    {
+      "file": "66906212.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1481,
+      "correct": true
+    },
+    {
+      "file": "69005326.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "HEALTHCARE",
+      "confidence": 0.0723,
+      "correct": false
+    },
+    {
+      "file": "69532425.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1974,
+      "correct": true
+    },
+    {
+      "file": "70892619.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1889,
+      "correct": true
+    },
+    {
+      "file": "74816727.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1716,
+      "correct": true
+    },
+    {
+      "file": "76196367.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1863,
+      "correct": true
+    },
+    {
+      "file": "79663360.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.0879,
+      "correct": true
+    },
+    {
+      "file": "86322251.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1909,
+      "correct": true
+    },
+    {
+      "file": "86597425.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2057,
+      "correct": true
+    },
+    {
+      "file": "90363254.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1696,
+      "correct": true
+    },
+    {
+      "file": "96547039.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.2329,
+      "correct": true
+    },
+    {
+      "file": "99244405.pdf",
+      "folder_label": "TEACHER",
+      "predicted": "TEACHER",
+      "confidence": 0.1559,
+      "correct": true
+    }
+  ]
+}

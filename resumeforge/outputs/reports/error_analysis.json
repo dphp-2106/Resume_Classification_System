@@ -1,0 +1,68 @@
+{
+  "best_model": "TF-IDF + LinearSVC (standard, (1, 1))",
+  "test_n": 373,
+  "wrong_n": 122,
+  "error_rate": 0.3271,
+  "mean_confidence_wrong": 0.0839,
+  "mean_confidence_right": 0.1126,
+  "mean_words_wrong": 865.2,
+  "mean_words_right": 794.4,
+  "errors_below_0_6_confidence": 122,
+  "top_confusion_pairs": [
+    {
+      "actual": "FINANCE",
+      "predicted": "ACCOUNTANT",
+      "count": 9
+    },
+    {
+      "actual": "ARTS",
+      "predicted": "TEACHER",
+      "count": 8
+    },
+    {
+      "actual": "SALES",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "count": 4
+    },
+    {
+      "actual": "APPAREL",
+      "predicted": "SALES",
+      "count": 4
+    },
+    {
+      "actual": "CONSULTANT",
+      "predicted": "ACCOUNTANT",
+      "count": 3
+    },
+    {
+      "actual": "CONSULTANT",
+      "predicted": "BUSINESS-DEVELOPMENT",
+      "count": 3
+    },
+    {
+      "actual": "ENGINEERING",
+      "predicted": "INFORMATION-TECHNOLOGY",
+      "count": 3
+    },
+    {
+      "actual": "CHEF",
+      "predicted": "TEACHER",
+      "count": 2
+    }
+  ],
+  "worst_error_rate_classes": {
+    "BPO": 1.0,
+    "CONSULTANT": 0.941,
+    "ARTS": 0.812,
+    "AUTOMOBILE": 0.8,
+    "APPAREL": 0.733,
+    "FINANCE": 0.611
+  },
+  "minority_class_support": {
+    "BPO": 3,
+    "AUTOMOBILE": 5,
+    "AGRICULTURE": 9,
+    "DIGITAL-MEDIA": 14,
+    "APPAREL": 15
+  }
+}

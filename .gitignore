@@ -1,0 +1,62 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit & Cache
+.streamlit/
+*/.system_generated/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw Datasets (Do not commit massive raw data dumps)
+Dataset-20261005T050929Z-1-001/
+*.csv.zip
+*.tar.gz
+
+# Preprocessed CSV & Intermediate heavy exports
+**/cleaned_resumes.csv
+resume_classifier/outputs/cleaned_resumes.csv
+resumeforge/outputs/*.csv
+
+# Heavy Binary Models (>20MB)
+# Note: Retrainable in 2-3 minutes via python run_pipeline.py
+*.model*
+w2v_lgbm_classifier.pkl
+w2v_mlp.joblib
+resume_classifier/outputs/models/*.model*
+resume_classifier/outputs/models/w2v_lgbm_classifier.pkl
+resumeforge/outputs/models/w2v_mlp.joblib
+
+# Temporary & Word lock files
+~$*.docx

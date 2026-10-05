@@ -1,0 +1,6 @@
+{
+  "name": "LightGBM (bi)",
+  "vectorizer": "tfidf_bigram",
+  "test_acc": 0.7935656836461126,
+  "test_f1": 0.7664691993695417
+}
