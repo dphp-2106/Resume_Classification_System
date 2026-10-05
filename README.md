@@ -42,17 +42,17 @@ Modern talent acquisition pipelines face thousands of unstructured, non-standard
 
 ```mermaid
 flowchart TD
-    A[Raw Resume Input\n.pdf, .docx, .txt, or CSV] --> B[Text Extraction & Cleaning\npreprocessing_utils.py]
-    B --> C[Noise Normalization\nHTML removal, URL/Email/Phone masking,\nC++/Node.js normalization]
-    C --> D[Tokenization & Lemmatization\nWordNet Lemmatizer +\nTech Token Whitelist: AWS, SQL, Python, etc.]
-    D --> E{Feature Extraction}
-    E -->|Sparse Representation| F[TF-IDF Vectorizer\nUnigram + Bigram\n20,000 features, Sublinear TF]
-    E -->|Dense Semantic Representation| G[Word2Vec Skip-Gram\n200 dimensions, window=10\nMean-Pooled Document Vector]
-    F --> H[Classical ML Models\nLightGBM Champion (76.7% F1)\nXGBoost (73.2% F1)\nLogistic Regression (64.4% F1)\nLinear SVM (64.2% F1)]
-    G --> I[Neural Classifier\n3-Layer MLP 512-256-128\nwith Adam + Early Stopping]
-    H --> J[Calibrated Adaptive Ensemble\nDynamically reweighted by resume length]
+    A["Raw Resume Input<br/>.pdf, .docx, .txt, or CSV"] --> B["Text Extraction & Cleaning<br/>preprocessing_utils.py"]
+    B --> C["Noise Normalization<br/>HTML removal, URL/Email masking,<br/>C++/Node.js preservation"]
+    C --> D["Tokenization & Lemmatization<br/>WordNet Lemmatizer + Tech Token Whitelist"]
+    D --> E{"Feature Extraction"}
+    E -->|"Sparse Representation"| F["TF-IDF Vectorizer<br/>Unigram + Bigram (20,000 features)"]
+    E -->|"Dense Semantic Representation"| G["Word2Vec Skip-Gram<br/>200 dimensions, Mean-Pooled"]
+    F --> H["Classical ML Models<br/>LightGBM Champion (76.7% F1)<br/>XGBoost, Logistic Reg, Linear SVM"]
+    G --> I["Neural Classifier<br/>3-Layer MLP (512-256-128)<br/>with Adam + Early Stopping"]
+    H --> J["Calibrated Adaptive Ensemble<br/>Dynamically reweighted by text length"]
     I --> J
-    J --> K[Final Output: Predicted Category,\nConfidence Score, Top-5 Probabilities,\n& Trigger Keywords]
+    J --> K["Final Output<br/>Predicted Category & Trigger Keywords"]
 ```
 
 ---
